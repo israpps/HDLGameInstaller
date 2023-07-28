@@ -42,3 +42,4 @@ SYSTEM_cnf.c
 background.c
 buttons.c
 devices.c
+HDLGManClient/build/
